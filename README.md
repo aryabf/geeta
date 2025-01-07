@@ -7,7 +7,22 @@ Geeta: The Violin and The Doll's Symphony is a simple roguelike desktop game mad
 
 As you have probably noticed, this game is HEAVILY inspired by [HoloCure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/), a roguelike game developed by [KayAnimate](https://store.steampowered.com/search/?developer=KayAnimate).
 
-This game also contains several assets from other sources that will be credited later in this document.
+This game also contains several assets from other sources that will be credited [later in this document](https://github.com/aryabf/geeta/edit/main/README.md#credits).
+
+# Table of Contents
+- [Scenes](https://github.com/aryabf/geeta/edit/main/README.md#scenes)
+  - [Intro](https://github.com/aryabf/geeta/edit/main/README.md#intro)
+  - [Main Menu](https://github.com/aryabf/geeta/edit/main/README.md#main-menu)
+  - [Demo](https://github.com/aryabf/geeta/edit/main/README.md#demo)
+  - [1-2](https://github.com/aryabf/geeta/edit/main/README.md#1-2)
+  - [1-3](https://github.com/aryabf/geeta/edit/main/README.md#1-3)
+- [Getting Started](https://github.com/aryabf/geeta/edit/main/README.md#getting-started)
+  - [Standalone Build Play Session](https://github.com/aryabf/geeta/edit/main/README.md#standalone-build-play-session)
+  - [Unity Editor Play Session](https://github.com/aryabf/geeta/edit/main/README.md#standalone-build-play-session)
+- [Credits](https://github.com/aryabf/geeta/edit/main/README.md#standalone-build-play-session)
+  - [Background Music](https://github.com/aryabf/geeta/edit/main/README.md#background-music)
+  - [Sound Effects](https://github.com/aryabf/geeta/edit/main/README.md#sound-effects)
+  - [Sprites](https://github.com/aryabf/geeta/edit/main/README.md#sprites)
 
 # Scenes
 ### Intro
@@ -44,19 +59,24 @@ To play Geeta in the Unity Editor, you need to follow these steps:
 4. Enjoy!
 
 # Credits
+All the musics, sound effects, and sprites used in this project belongs to their respective owners. I do not claim any rights over them.
+
 ### Background Music
-Intro: [Johann Pachelbel - Canon in D | 8 Bit Cover HD (Version 2)](https://www.youtube.com/watch?v=fN2vEK5kj-g) by Blunderchips
-
-Main Menu: Cannot find the source.
-
-Stage 1-1: "[Innocent](https://youtube.com/watch?v=ZZZNplfGq50)" by Bond
-
-Stage 1-2: "[Victory](https://www.youtube.com/watch?v=kzttKqtcxps)" by Bond
-
-Stage 1-3: "[Explosive](https://www.youtube.com/watch?v=B42dozDeEfA)" by Bond
+- Intro: [Johann Pachelbel - Canon in D | 8 Bit Cover HD (Version 2)](https://www.youtube.com/watch?v=fN2vEK5kj-g) by Blunderchips
+- Main Menu: Cannot find the source.
+- Stage 1-1: "[Innocent](https://youtube.com/watch?v=ZZZNplfGq50)" by Bond
+- Stage 1-2: "[Victory](https://www.youtube.com/watch?v=kzttKqtcxps)" by Bond
+- Stage 1-3: "[Explosive](https://www.youtube.com/watch?v=B42dozDeEfA)" by Bond
 
 ### Sound Effects
-
+- Boom Intro Sound Effect: [UNDERTALE](https://store.steampowered.com/app/391540/Undertale/) by Toby Fox
+- Button Click: [8bit Click Sound Effect](https://www.youtube.com/watch?v=l9ZUHT0xMwQ) by The Ultimate Sound Effects
 
 ### Sprites
+- [OMORI](https://store.steampowered.com/app/1150690/OMORI/) by [OMOCAT, LLC](https://store.steampowered.com/search/?developer=OMOCAT%2C%20LLC)
+- [HoloCure](https://store.steampowered.com/app/2420510/HoloCure__Save_the_Fans/) by [KayAnimate](https://store.steampowered.com/search/?developer=KayAnimate)
+- [UNDERTALE](https://store.steampowered.com/app/391540/Undertale/) by [Toby Fox](https://store.steampowered.com/search/?developer=tobyfox)
+- [Undead Survivor](https://assetstore.unity.com/packages/2d/undead-survivor-assets-pack-238068?srsltid=AfmBOoo5cWszcDFJv-M3jghWS1AdZu0IEAWQ1zQq_jVjXdCRteHR2ly9) by [Goldmetal](https://assetstore.unity.com/publishers/52011)
+- [Freepik](https://www.freepik.com/)
+- [Adobe Stock](https://stock.adobe.com/)
 
